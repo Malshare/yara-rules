@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Cuckoo Sandbox",
+        "directory": "cuckoo-yara-rules",
+        "git": "https://github.com/cuckoosandbox/cuckoo.git",
+        "path": "cuckoo/cuckoo/data/yara",
+        "uri": "https://github.com/cuckoosandbox/cuckoo"
+    },
+    {
+        "name": "Florian Roth",
+        "directory": "florian-roth",
+        "git": "https://github.com/Neo23x0/signature-base.git",
+        "path": "yara",
+        "uri": "https://github.com/Neo23x0/signature-base"
+    },
+    {
+        "name": "Yara Rules Project",
+        "directory": "yara-rules-project",
+        "git": "https://github.com/Yara-Rules/rules.git",
+        "path": "",
+        "uri": "https://github.com/Yara-Rules/rules"
+    },
+    {
+        "name": "bamfdetect",
+        "directory": "bamfdetect",
+        "git": "https://github.com/bwall/bamfdetect.git",
+        "path": "BAMF_Detect/modules/yara",
+        "uri": "https://github.com/bwall/bamfdetect"
+    },
+    {
+        "name": "TheHermit",
+        "directory": "kevthehermit",
+        "git": "https://github.com/kevthehermit/YaraRules.git",
+        "path": "",
+        "uri": "https://github.com/kevthehermit/YaraRules"
+    }
+]
